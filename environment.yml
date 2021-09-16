@@ -11,6 +11,10 @@ dependencies:
   - pip
   - scikit-image
   - invoke
+  - xarray
+  - dask
+  - netCDF4
+  - bottleneck
   - pip:
     - opencv-python
     - black
